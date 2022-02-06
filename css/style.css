@@ -103,12 +103,12 @@ h6 {
 
 .custom-radio .custom-control-input:checked~.custom-control-label::before,
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
-    color: #ffffff;
+    color: #000000;
     background: #FF6F61;
 }
 
 button.btn {
-    color: #ffffff;
+    color: #000000;
     background: #000000;
     border: 1px solid #000000;
 }
