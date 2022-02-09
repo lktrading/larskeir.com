@@ -37,7 +37,7 @@
 
 .u-section-1 .u-text-3 {
   font-size: 1.25rem;
-  margin: 0;
+  margin: 0 2px 0 0;
 }
 
 .u-section-1 .u-image-1 {
@@ -97,6 +97,10 @@
 
   .u-section-1 .u-container-layout-1 {
     padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-1 {
