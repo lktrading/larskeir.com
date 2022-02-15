@@ -73,7 +73,6 @@
 .u-section-2 .u-blog-1 {
   margin-top: 60px;
   margin-bottom: 60px;
-  height: auto;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -185,6 +184,10 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 428px;
+  }
+
+  .u-section-2 .u-blog-1 {
+    height: auto;
   }
 
   .u-section-2 .u-repeater-1 {
